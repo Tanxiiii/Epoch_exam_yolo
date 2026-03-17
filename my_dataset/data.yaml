@@ -1,0 +1,5 @@
+train: /home/tanxi/ros2/Epoch/yolo/my_dataset/images/train
+val: /home/tanxi/ros2/Epoch/yolo/my_dataset/images/val
+#类别数量
+nc: 1
+names: ['cup']
